@@ -1,0 +1,31 @@
+h3 {
+    text-align: center;
+}
+
+.cont {
+    height: 340px;
+    width: 220px;
+    background-color: gray;
+    color: white;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px gray;
+}
+
+.container {
+    text-align: center;
+}
+
+.button {
+    margin: 8px;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+.button:hover {
+    background-color: rgba(39, 219, 219, 0.603);
+    color: white;
+}
